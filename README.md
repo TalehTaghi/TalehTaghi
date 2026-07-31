@@ -10,9 +10,9 @@ Backend-focused software engineer (~5 years) working in **Go** and **Node.js / T
 
 ### 🚀 Featured project — ProST
 
-[![ProST](https://github-readme-stats.vercel.app/api/pin/?username=AutomatedProcessImprovement&repo=ProSim-ST)](https://github.com/AutomatedProcessImprovement/ProSim-ST)
+**[→ View ProST on GitHub](https://github.com/AutomatedProcessImprovement/ProSim-ST)**
 
-The full-stack **TypeScript** web app I built for my master's thesis — analyzing short-term business-process simulations through an interactive, token-based animation of process execution with live performance metrics. Built with integration + Playwright E2E tests, a CI pipeline, Docker, and deployed to production.
+The full-stack **TypeScript / Next.js** web app I built for my master's thesis — analyzing short-term business-process simulations through an interactive, token-based animation of process execution with live performance metrics. Built with integration + Playwright E2E tests, a CI pipeline, Docker, and deployed to production.
 
 ### 🛠️ Stack
 
