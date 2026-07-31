@@ -6,6 +6,14 @@ Backend-focused software engineer (~5 years) working in **Go** and **Node.js / T
 
 🎓 MSc in Software Engineering, University of Tartu.
 
-📌 Most of my recent work lives in private company repositories. For a representative public sample, see **ProST** — the full-stack TypeScript app I built for my master's thesis (integration + E2E tests, CI pipeline, Docker, deployed to production): https://github.com/AutomatedProcessImprovement/ProSim-ST
+📌 Most of my recent work lives in private company repositories, so here is a representative public project:
 
-**Stack:** Go · Node.js · TypeScript · PHP · MySQL · Redis · Docker · AWS
+### 🚀 Featured project — ProST
+
+[![ProST](https://github-readme-stats.vercel.app/api/pin/?username=AutomatedProcessImprovement&repo=ProSim-ST)](https://github.com/AutomatedProcessImprovement/ProSim-ST)
+
+The full-stack **TypeScript** web app I built for my master's thesis — analyzing short-term business-process simulations through an interactive, token-based animation of process execution with live performance metrics. Built with integration + Playwright E2E tests, a CI pipeline, Docker, and deployed to production.
+
+### 🛠️ Stack
+
+Go · Node.js · TypeScript · PHP · MySQL · Redis · Docker · AWS
